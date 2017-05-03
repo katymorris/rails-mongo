@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/bullet-base":{"guestpath":"/home/vagrant/bullet-base","hostpath":"/Users/katymorris/Documents/EM/bullet-base/bullet-base","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/katymorris/Documents/EM/bullet-base","disabled":false,"__vagrantfile":true}}}
